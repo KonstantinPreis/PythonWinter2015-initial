@@ -1,4 +1,4 @@
 # PythonWinter2015-initial
 initial dummy repo.
 
-It is really dummy.
+It is really not dummy.
